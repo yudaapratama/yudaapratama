@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Whats'up 👋, I'm Yudha Pratama</h1>
-<h3 align="center"></h3>
+<h1 align="left">Hey, Whats'up 👋, I'm Yudha Pratama</h1>
+<h3 align="left">Programmer</h3>
 
 - 🌱 I’m currently learning **Nuxt and typescript**
 
