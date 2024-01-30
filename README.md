@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yudhaprathamaa@gmail.com**
 
-### Blogs posts
+### Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
