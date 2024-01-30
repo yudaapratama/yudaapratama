@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [yudaa-pratama.medium.com](yudaa-pratama.medium.com)
 
-- 💬 Ask me about anything related to **nodejs/nuxt/laravel**
+- 💬 Ask me about anything related to **nodejs, nuxt, or laravel**
 
 - 📫 How to reach me **yudhaprathamaa@gmail.com**
 
