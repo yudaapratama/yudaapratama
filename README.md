@@ -13,7 +13,8 @@
 
 ## 📕 &nbsp;**Blog**
 <!-- BLOG-POST-LIST:START -->
-- [Rest API &lpar;Express &amp; Supabase&rpar;](https://yudaa-pratama.medium.com/rest-api-express-supabase-04960d859e64?source=rss-9065b8a231db------2)
+- [Rest API &lpar;Express &amp; Supabase&rpar; — Create Data](https://yudaa-pratama.medium.com/rest-api-express-supabase-create-data-a502729f2d22?source=rss-9065b8a231db------2)
+- [Rest API &lpar;Express &amp; Supabase&rpar; — Read Data](https://yudaa-pratama.medium.com/rest-api-express-supabase-04960d859e64?source=rss-9065b8a231db------2)
 - [CRUD Laravel Liveware](https://yudaa-pratama.medium.com/crud-laravel-liveware-c2b3ae084870?source=rss-9065b8a231db------2)
 - [5 Masalah Yang Sering di Hadapi Programmer](https://yudaa-pratama.medium.com/5-masalah-yang-sering-di-hadapi-programmer-b9cdc811c71f?source=rss-9065b8a231db------2)
 - [Apa itu HTML ?](https://yudaa-pratama.medium.com/apa-itu-html-ccb277e8c69d?source=rss-9065b8a231db------2)
