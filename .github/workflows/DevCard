@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 permissions:
   contents: write # To write the generated contents to the readme
   
