@@ -1,4 +1,4 @@
-name: daily.dev Card
+name: daily.dev card
 on:
   schedule: # Run workflow automatically
     - cron: '0 12 * * *'
