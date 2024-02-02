@@ -1,0 +1,22 @@
+name: daily.dev Card
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write # To write the generated contents to the readme
+  
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.3.1
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
