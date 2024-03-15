@@ -15,9 +15,9 @@
 
 ## 📕 &nbsp;**Blog**
 <!-- BLOG-POST-LIST:START -->
+- [Var, Let, atau Const: Pilih yg mana ?](https://yudaa-pratama.medium.com/var-let-atau-const-pilih-yg-mana-f35f3adfb48c?source=rss-9065b8a231db------2)
 - [5 Extension VSCode Yg Mesti Kamu Coba!](https://yudaa-pratama.medium.com/5-extension-vscode-yg-mesti-kamu-coba-abe0f19c12b6?source=rss-9065b8a231db------2)
 - [Rest API &lpar;Express &amp; Supabase&rpar; — Update Data &amp; Delete Data](https://yudaa-pratama.medium.com/rest-api-express-supabase-update-data-53f9550e466f?source=rss-9065b8a231db------2)
 - [Rest API &lpar;Express &amp; Supabase&rpar; — Create Data](https://yudaa-pratama.medium.com/rest-api-express-supabase-create-data-a502729f2d22?source=rss-9065b8a231db------2)
 - [Rest API &lpar;Express &amp; Supabase&rpar; — Read Data](https://yudaa-pratama.medium.com/rest-api-express-supabase-04960d859e64?source=rss-9065b8a231db------2)
-- [CRUD Laravel Liveware](https://yudaa-pratama.medium.com/crud-laravel-liveware-c2b3ae084870?source=rss-9065b8a231db------2)
 <!-- BLOG-POST-LIST:END -->
