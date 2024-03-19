@@ -1,8 +1,8 @@
 # Hey, Whats'up 👋, I'm Yudha
 
-- 🌱 I’m currently learning **nuxt and typescript**
+- 🌱 I’m currently learning **Nuxt and Typescript**
 - 📝 I regularly write articles on [yudaa-pratama.medium.com](yudaa-pratama.medium.com)
-- 💬 Ask me about anything related to **javascript or php**
+- 💬 Ask me about anything related to **Javascript**
 - 📫 How to reach me **yudhaprathamaa@gmail.com**
 
 ## 🔗 &nbsp;**Connect with me**
