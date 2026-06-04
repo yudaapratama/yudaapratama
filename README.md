@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Nuxt and Typescript**
 - 💬 Ask me about anything related to **Javascript**
 - 📫 How to reach me **yudhaprathamaa@gmail.com**
-- 🌏 You can visit my blog in [porto-folio.nuxt.dev](https://porto-folio.nuxt.dev/)
+- 🌏 You can visit my blog in [sillypick.web.id](https://sillypick.web.id/blog)
 
 ## 🔗 &nbsp;**Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yudaa-pratama) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yudaa-pratama) 
